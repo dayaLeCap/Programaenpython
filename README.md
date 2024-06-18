@@ -4,6 +4,7 @@ NAME:
 Dayana Lema and Daniela Yumbo
 
 SUBJECT: PROGRAMING I
+LANGUAGE: python 
 
 Square Root Calculator in Python
 This is a simple Python program that calculates the square root of a number. It also handles the situation where attempting to calculate the square root of a negative number.
